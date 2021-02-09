@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Seminarios de Astronomía del Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
 
-You can use the [editor on GitHub](https://github.com/seminariodeastronomia/seminariodeastronomia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
 
 ### Markdown
 
