@@ -1,4 +1,6 @@
-### Markdown
+Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
+
+### Histórico de Seminarios
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
