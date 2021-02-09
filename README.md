@@ -1,4 +1,4 @@
-## Seminarios de Astronomía del Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
+## Seminarios de Astronomía Universidad de los Andes
 
 Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
 
