@@ -1,3 +1,6 @@
+![Alt text](https://www.muskegoncc.edu/degrees-and-certificates/wp-content/uploads/sites/127/2014/10/Night-Sky-1280x230.jpg?raw=true "Title")
+
+
 Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
 
 ### Histórico de Seminarios
