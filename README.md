@@ -10,7 +10,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 ##### Martes Feb-09:
 - **Jaime Ernesto Forero Romero. Ayudando desde Uniandes a construir el mapa más grande del Universo.**
 
-*En esta charla presentaré al Dark Energy Spectroscopic Instrument (DESI), un proyecto del cual hace parte Uniandes  y que tiene como objetivo hacer el mapa más grande del Universo. Hablaré de los retos técnicos, del papel de Uniandes en la colaboración y del progreso actual de las observaciones que empezaron en Diciembre 2020 y que se extenderán hasta el 2025.*
+*En esta charla presentaré al Dark Energy Spectroscopic Instrument (DESI), un proyecto del cual hace parte Uniandes  y que tiene como objetivo hacer el mapa más grande del Universo. Hablaré de los retos técnicos, del papel de Uniandes en la colaboración y del progreso actual de las observaciones que empezaron en Diciembre 2020 y que se extenderán hasta el 2025.* [Vea la presentación.](presentaciones/JForero20210902.pdf)
 
 - **John Fredy Suarez Perez. Assessing the quality of DESI spectra.**
 
