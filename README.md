@@ -6,7 +6,18 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 ### Histórico de Seminarios
 
 <HR>
+  
+##### Martes Feb-09:
+- **Jaime Ernesto Forero Romero. Ayudando desde Uniandes a construir el mapa más grande del Universo.**
 
+En esta charla presentaré al Dark Energy Spectroscopic Instrument (DESI), un proyecto del cual hace parte Uniandes  y que tiene como objetivo hacer el mapa más grande del Universo. Hablaré de los retos técnicos, del papel de Uniandes en la colaboración y del progreso actual de las observaciones que empezaron en Diciembre 2020 y que se extenderán hasta el 2025.
+
+-<**John Fredy Suarez Perez. Assessing the quality of DESI spectra.**
+
+Measuring the spectra of astronomical objects has three main steps: gathering the astronomical light of the object of interest in the telescope, passing the light through the spectrograph and recording the dispersed light on a CCD. Afterward, all these data have to be processed to obtain a final calibrated spectrum. Every step in this process is open to instrumental or algorithmic errors. Due to the large amount of data to be obtained by DESI, human inspection to identify these errors could be inefficient.  To solve this task we want to use the UMAP algorithm. We take a set of observed spectra to embed it into 2D space using UMAP. The calibration errors and bad spectra appear in the low dimensional representation as outliers. In this talk I will show preliminary results from this approach.
+
+<HR>
+  
 ##### Martes Feb-02: 
   
 - **Benjamin Oostra Vannoppen. Granulación en estrellas tipo K.**
