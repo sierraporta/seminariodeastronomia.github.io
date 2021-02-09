@@ -1,2 +1,7 @@
 theme: jekyll-theme-slate
 title: [Seminarios de Astronomía]
+#author: ASTROANDES
+github: https://github.com/seminariodeastronomia/seminariodeastronomia.github.io
+about: Seminarios de Astronomía Universidad de los Andes (Colombia)
+disqus_shortname: astroandes
+avatar_url: /static/img/avatar.png
