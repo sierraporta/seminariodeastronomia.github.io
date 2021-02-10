@@ -1,13 +1,13 @@
 ![Alt text](imagenes/Night-Sky-1280x230_r.jpg.png)
 
 
-Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia
+Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia.
 
 ### Histórico de Seminarios
 
 <HR>
   
-##### Martes Feb-09:
+##### Martes Feb-09-2021:
 - **Jaime Ernesto Forero Romero. Ayudando desde Uniandes a construir el mapa más grande del Universo.**
 
 *En esta charla presentaré al Dark Energy Spectroscopic Instrument (DESI), un proyecto del cual hace parte Uniandes  y que tiene como objetivo hacer el mapa más grande del Universo. Hablaré de los retos técnicos, del papel de Uniandes en la colaboración y del progreso actual de las observaciones que empezaron en Diciembre 2020 y que se extenderán hasta el 2025.* [Vea la presentación.](presentaciones/JForero20210902.pdf)
@@ -18,9 +18,10 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 <HR>
   
-##### Martes Feb-02: 
+##### Martes Feb-02-2021: 
   
-- **Benjamin Oostra Vannoppen. Granulación en estrellas tipo K.**
+- **Benjamin Oostra Vannoppen** (Profesor, Universidad de los Andes) 
+**Granulación en estrellas tipo K.**
   
 *Al medir la velocidad de una estrella, surge un problema: cada línea espectral indica una velocidad diferente. Esto se debe a movimientos convectivos en su fotosfera, fenómeno conocido como granulación, y al hecho de que cada línea espectral se forma preferiblemente en una zona diferente. En el Sol esta complicación ha sido ampliamente estudiada; pero en estrellas frías, sobre todo gigantes, el problema es más complejo.* [Vea la presentación.](presentaciones/BOostra20210202.pdf)
 
