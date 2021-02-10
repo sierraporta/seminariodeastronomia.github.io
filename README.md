@@ -3,11 +3,11 @@
 
 Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el Departamento de Física de la Universidad de los Andes, Bogotá-Colombia.
 
-### Histórico de Seminarios
+# Histórico de Seminarios
 
 <HR>
   
-##### Martes Feb-09-2021:
+### Martes Feb-09-2021:
 - **Jaime Ernesto Forero Romero** (Profesor, Universidad de los Andes). **Ayudando desde Uniandes a construir el mapa más grande del Universo.**
 
 *En esta charla presentaré al Dark Energy Spectroscopic Instrument (DESI), un proyecto del cual hace parte Uniandes  y que tiene como objetivo hacer el mapa más grande del Universo. Hablaré de los retos técnicos, del papel de Uniandes en la colaboración y del progreso actual de las observaciones que empezaron en Diciembre 2020 y que se extenderán hasta el 2025.* [Vea la presentación.](presentaciones/JForero20210902.pdf)
@@ -18,7 +18,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 <HR>
   
-##### Martes Feb-02-2021: 
+### Martes Feb-02-2021: 
   
 - **Benjamin Oostra Vannoppen** (Profesor, Universidad de los Andes). **Granulación en estrellas tipo K.**
   
