@@ -8,9 +8,9 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 <HR>
   
 ### Martes Feb-23-2021:
-- **Fredy Alexander Orjuela Lopez** (Estudiante, Universidad de los Andes). **Título a confirmar.**
+- **Fredy Alexander Orjuela Lopez** (Estudiante, Universidad de los Andes). **Análisis de los parámetros en estrellas Be.**
 
-*Próximamente* [Vea la presentación.](presentaciones/)
+*Las estrellas  Be están acompañadas de un disco circunenstelar, lo que hace que  estas estrellas sean el escenario perfecto para entender la dinámica de lo que se conocen como discos de decreción. En esta charla de seminario, se presentan los parámetros óptimos que acompañan a los modelos que describen la dinámica de los discos circunenstelares a partir de un enfoque Bayesiano.* [Vea la presentación.](presentaciones/)
 
 - **Nicolás Garavito** (Estudiante, Universidad de los Andes).  **Título a confirmar.**
 
