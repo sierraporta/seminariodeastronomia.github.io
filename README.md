@@ -6,7 +6,18 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 # Histórico de Seminarios
 
 <HR>
-  
+
+### Martes Mar-02-2021:
+- **Maria Gracia Batista** (Observatorio Astronómico, Universidad de los Andes). **Avances en las medidas de actividad de estrellas jóvenes en el Complejo molecular de Orión.**
+
+*La actividad en las atmósferas estelares se puede evidenciar por la presencia de ciertas líneas espectrales. Durante la etapa de secuencia principal se sabe que la cantidad de actividad depende de la edad de las estrellas, pero la caracterización de este comportamiento en las primeras etapas de su formación es un tema que aún sigue abierto. En esta charla compartiré los avances en las medidas de actividad de un grupo de casi 1800 estrellas que están en el Complejo de formación estelar de Orión.* [Vea la presentación.](presentaciones/)
+
+- **Daniel Alejandro Molano Moreno** (Estudiante, Universidad de los Andes). **Teoría Post Einstein.** 
+
+*Argumentos teóricos y observacionales abren la posibilidad de que la Relatividad General (RG) no sea la ultima teoría gravitacional. Esto ha motivado toda una serie de alternativas en su mayoría generalizaciones de la RG como teorías escalar-tensor, tensor-vector-scalar, y teorias de derivadas de orden superior como teorías de gravedad modificada f(R). Por otro lado la dificultad de tener soluciones analíticas exactas de las ecuaciones diferenciales en estas teorias no nos permiten tener una vision global clara de lo que podrían predecir estas alternativas y como compararlas con RG. En nuestro trabajo usamos técnicas perturbativas en campos tensoriales, para demostrar que las soluciones en RG en el vacio estan desconectadas matemáticamente con las soluciones en f(R) en el vacío. Discutiremos algunas implicaciones físicas y aspectos matemáticos importantes de este resultado.* [Vea la presentación.](presentaciones/)
+
+<HR>
+
 ### Martes Feb-23-2021:
 - **Milo Buitrago-Casas** (Estudiante, Universidad de los Andes).  **Nuevas tecnologías para el estudio del Sol en altas energías.**
 
