@@ -36,7 +36,7 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 ### Martes Feb-16-2021:
 - **Steven Alfonso** (Estudiante, Universidad de los Andes). **Open clusters with Gaia DR2.**
 
-*En esta charla presentaré una descripción general sobre la pertenencia de estrellas con los movimientos propios del Gaia DR2 sobre los cúmulos abiertos de las Pléyades, Blanco 1 y Beehive. De acuerdo a los resultados obtenidos, se mostrarán algunas dificultades que se han presentado al identificar estrellas en los diagramas color-magnitud, principalmente aquellas que se encuentran fuera de la secuencia principal pero están inmersas en la distribución espacial del cúmulo abierto.* [Vea la presentación.](presentaciones/)
+*En esta charla presentaré una descripción general sobre la pertenencia de estrellas con los movimientos propios del Gaia DR2 sobre los cúmulos abiertos de las Pléyades, Blanco 1 y Beehive. De acuerdo a los resultados obtenidos, se mostrarán algunas dificultades que se han presentado al identificar estrellas en los diagramas color-magnitud, principalmente aquellas que se encuentran fuera de la secuencia principal pero están inmersas en la distribución espacial del cúmulo abierto.* [Vea la presentación.](presentaciones/SAlfonso20211602.pdf)
 
 - **Cesar Dagoberto Millan Valderrama** (Estudiante, Universidad de los Andes). **Estudio óptico del sistema binario de rayos X Swift J0243.6+6124.**
 
