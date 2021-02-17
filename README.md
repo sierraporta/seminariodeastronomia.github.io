@@ -27,9 +27,9 @@ Bienvenidos a la página de los seminarios de Astronomía que tienen lugar en el
 
 *Las estrellas  Be están acompañadas de un disco circunenstelar, lo que hace que  estas estrellas sean el escenario perfecto para entender la dinámica de lo que se conocen como discos de decreción. En esta charla de seminario, se presentan los parámetros óptimos que acompañan a los modelos que describen la dinámica de los discos circunenstelares a partir de un enfoque Bayesiano.* [Vea la presentación.](presentaciones/)
 
-- **Nicolás Garavito** (Estudiante, Universidad de los Andes).  **Título a confirmar.**
+- **Nicolás Garavito** (Estudiante, Universidad de los Andes).  **La Vía Láctea y la gran Nube de Magallanes.**
 
-*Próximamente* [Vea la presentación.](presentaciones/)
+*La gran nube de Magallanes, la galaxia satélite más grande de la Vía Láctea, entró recientemente a la Vía Láctea. Como resultado de esta interacción la Vía Láctea se encuentra en desequilibrio dinámico.  Aunque este estado de desequilibrio es un reto para modelar la Vía Láctea, también es una oportunidad para estudiar la naturaleza de la materia oscura. En esta charla resumiré cómo podemos modelar la Vía Láctea en presencia de la gran nube de Magallanes y cómo podemos aprender sobre la naturaleza de la materia oscura.* [Vea la presentación.](presentaciones/)
 
 <HR>
   
